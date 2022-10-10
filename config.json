@@ -1,0 +1,15 @@
+{
+    "mainGuild": "GUILD_ID",
+    "defaultColor": "DEFAULT_COLOR_(HEX)",
+    "serverLogo": "LOGO_FOR_YOUR_SERVER_(IMAGE_LINK)",
+
+    "ticket_channel": "CHANNEL_TO_MAKE_A_TICKET",
+    "ticket_category": "CATEGORY_TO_OPEN_TICKETS",
+    "ticket_transcript": "CHANNEL_TO_TRANSCRIPTS",
+
+    "roles": {
+        "Administrator": "ADMIN_ROLE_ID",
+        "Staff": "STAFF_ROLE_ID",
+        "FullAccess": "FULL_ACCESS_ROLE_ID"
+    }
+}

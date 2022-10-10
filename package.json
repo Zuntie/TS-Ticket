@@ -1,0 +1,21 @@
+{
+  "name": "ts-ticket",
+  "version": "1.0.0",
+  "description": "TS - Hosting Ticket System",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js --config nodemon.json"
+  },
+  "keywords": [
+    "ts-hosting",
+    "ts-ticket",
+    "zuntie"
+  ],
+  "author": "Zuntie",
+  "license": "MIT",
+  "dependencies": {
+    "discord-html-transcripts": "^3.1.0",
+    "discord.js": "^14.5.0",
+    "nodemon": "^2.0.20"
+  }
+}
